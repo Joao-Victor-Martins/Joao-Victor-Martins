@@ -6,7 +6,6 @@
 
 ![Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Victor-Martins&show_icons=true&theme=dracula)
 
-[![Ultimas Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Victor-Martins&layout=donut)](https://github.com/Joao-Victor-Martins/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
@@ -25,6 +24,10 @@
     <img align="center" alt="NODE" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
     <img align="center" alt="MYSQÇ" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
+
+
+## Linguagens mais utilizadas
+[![Ultimas Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Victor-Martins&layout=donut)](https://github.com/Joao-Victor-Martins/github-readme-stats)
 
 
 ### Um pouco sobre mim!
